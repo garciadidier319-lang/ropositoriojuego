@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Jugar TRIQUI",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/triqui.py",
+      "console": "integratedTerminal"
+    }
+  ]
+}
