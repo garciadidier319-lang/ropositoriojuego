@@ -7,6 +7,13 @@
       "request": "launch",
       "program": "${workspaceFolder}/triqui.py",
       "console": "integratedTerminal"
+    },
+    {
+      "name": "Jugar TANQUES",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/tanques/tanques.py",
+      "console": "integratedTerminal"
     }
   ]
 }
